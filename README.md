@@ -1,2 +1,2 @@
 # Learning CSharp
-Programming language concepts C#
+Programming language concepts C#.

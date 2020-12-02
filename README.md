@@ -1,2 +1,2 @@
-# learning_csharp
-Conceitos da linguagem de programação C#
+# Learning CSharp
+Programming language concepts C#

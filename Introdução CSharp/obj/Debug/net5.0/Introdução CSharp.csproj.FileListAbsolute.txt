@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/Introdução CSharp
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/Introdução CSharp.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/Introdução CSharp.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/Introdução CSharp.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/Introdução CSharp.dll
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/ref/Introdução CSharp.dll
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/bin/Debug/net5.0/Introdução CSharp.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.dll
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/ref/Introdução CSharp.dll
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Introdução CSharp/obj/Debug/net5.0/Introdução CSharp.genruntimeconfig.cache

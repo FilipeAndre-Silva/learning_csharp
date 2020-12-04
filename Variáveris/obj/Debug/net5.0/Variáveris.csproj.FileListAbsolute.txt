@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/Variáveris
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/Variáveris.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/Variáveris.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/Variáveris.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/Variáveris.dll
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/ref/Variáveris.dll
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/bin/Debug/net5.0/Variáveris.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.dll
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/ref/Variáveris.dll
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Variáveris/obj/Debug/net5.0/Variáveris.genruntimeconfig.cache

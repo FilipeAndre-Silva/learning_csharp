@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/Casting
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/Casting.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/Casting.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/Casting.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/Casting.dll
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/ref/Casting.dll
+/home/filipe/Área de Trabalho/learning_csharp/Casting/bin/Debug/net5.0/Casting.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.dll
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/ref/Casting.dll
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Casting/obj/Debug/net5.0/Casting.genruntimeconfig.cache

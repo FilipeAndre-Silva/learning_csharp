@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/Strings
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/Strings.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/Strings.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/Strings.dll
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/ref/Strings.dll
+/home/filipe/Área de Trabalho/learning_csharp/Strings/bin/Debug/net5.0/Strings.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.dll
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/ref/Strings.dll
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Strings/obj/Debug/net5.0/Strings.genruntimeconfig.cache

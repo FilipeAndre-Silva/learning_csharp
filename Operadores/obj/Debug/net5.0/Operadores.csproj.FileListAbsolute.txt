@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/Operadores
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/Operadores.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/Operadores.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/Operadores.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/Operadores.dll
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/ref/Operadores.dll
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/bin/Debug/net5.0/Operadores.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.dll
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/ref/Operadores.dll
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Operadores/obj/Debug/net5.0/Operadores.genruntimeconfig.cache

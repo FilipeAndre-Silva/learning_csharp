@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/Math
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/Math.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/Math.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/Math.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/Math.dll
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/ref/Math.dll
+/home/filipe/Área de Trabalho/learning_csharp/Math/bin/Debug/net5.0/Math.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.dll
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/ref/Math.dll
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Math/obj/Debug/net5.0/Math.genruntimeconfig.cache

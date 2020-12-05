@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/While_e_For
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/While_e_For.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/While_e_For.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/While_e_For.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/While_e_For.dll
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/ref/While_e_For.dll
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/bin/Debug/net5.0/While_e_For.pdb
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.dll
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/ref/While_e_For.dll
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.pdb
+/home/filipe/Área de Trabalho/learning_csharp/While_e_For/obj/Debug/net5.0/While_e_For.genruntimeconfig.cache

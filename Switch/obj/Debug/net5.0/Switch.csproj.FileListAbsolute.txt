@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/Switch
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/Switch.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/Switch.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/Switch.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/Switch.dll
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/ref/Switch.dll
+/home/filipe/Área de Trabalho/learning_csharp/Switch/bin/Debug/net5.0/Switch.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.dll
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/ref/Switch.dll
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Switch/obj/Debug/net5.0/Switch.genruntimeconfig.cache

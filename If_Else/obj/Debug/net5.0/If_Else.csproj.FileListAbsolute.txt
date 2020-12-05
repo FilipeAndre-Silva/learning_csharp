@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/If_Else
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/If_Else.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/If_Else.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/If_Else.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/If_Else.dll
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/ref/If_Else.dll
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/bin/Debug/net5.0/If_Else.pdb
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.dll
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/ref/If_Else.dll
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.pdb
+/home/filipe/Área de Trabalho/learning_csharp/If_Else/obj/Debug/net5.0/If_Else.genruntimeconfig.cache

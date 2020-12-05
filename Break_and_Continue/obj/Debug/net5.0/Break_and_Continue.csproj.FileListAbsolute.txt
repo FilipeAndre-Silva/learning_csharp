@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/Break_and_Continue
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/Break_and_Continue.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/Break_and_Continue.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/Break_and_Continue.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/Break_and_Continue.dll
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/ref/Break_and_Continue.dll
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/bin/Debug/net5.0/Break_and_Continue.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.dll
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/ref/Break_and_Continue.dll
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Break_and_Continue/obj/Debug/net5.0/Break_and_Continue.genruntimeconfig.cache

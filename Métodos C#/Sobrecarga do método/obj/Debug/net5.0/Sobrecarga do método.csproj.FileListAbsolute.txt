@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/Sobrecarga do método
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/Sobrecarga do método.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/Sobrecarga do método.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/Sobrecarga do método.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/Sobrecarga do método.dll
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/ref/Sobrecarga do método.dll
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/bin/Debug/net5.0/Sobrecarga do método.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.dll
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/ref/Sobrecarga do método.dll
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Sobrecarga do método/obj/Debug/net5.0/Sobrecarga do método.genruntimeconfig.cache

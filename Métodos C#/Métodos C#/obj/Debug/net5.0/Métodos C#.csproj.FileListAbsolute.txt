@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/Métodos C#
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/Métodos C#.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/Métodos C#.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/Métodos C#.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/Métodos C#.dll
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/ref/Métodos C#.dll
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/bin/Debug/net5.0/Métodos C#.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.dll
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/ref/Métodos C#.dll
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Métodos C#/obj/Debug/net5.0/Métodos C#.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/Interface
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/Interface.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/Interface.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/Interface.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/Interface.dll
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/ref/Interface.dll
+/home/filipe/Área de Trabalho/learning_csharp/Interface/bin/Debug/net5.0/Interface.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.dll
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/ref/Interface.dll
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Interface/obj/Debug/net5.0/Interface.genruntimeconfig.cache

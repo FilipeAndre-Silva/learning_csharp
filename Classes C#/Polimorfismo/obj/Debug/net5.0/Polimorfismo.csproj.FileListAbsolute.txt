@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/Polimorfismo
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/Polimorfismo.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/Polimorfismo.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/Polimorfismo.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/Polimorfismo.dll
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/ref/Polimorfismo.dll
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/bin/Debug/net5.0/Polimorfismo.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.dll
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/ref/Polimorfismo.dll
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Polimorfismo/obj/Debug/net5.0/Polimorfismo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/Abstração
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/Abstração.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/Abstração.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/Abstração.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/Abstração.dll
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/ref/Abstração.dll
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/bin/Debug/net5.0/Abstração.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.dll
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/ref/Abstração.dll
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Abstração/obj/Debug/net5.0/Abstração.genruntimeconfig.cache

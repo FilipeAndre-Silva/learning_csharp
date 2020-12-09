@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/Get e Set
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/Get e Set.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/Get e Set.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/Get e Set.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/Get e Set.dll
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/ref/Get e Set.dll
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/bin/Debug/net5.0/Get e Set.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.dll
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/ref/Get e Set.dll
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Get e Set/obj/Debug/net5.0/Get e Set.genruntimeconfig.cache

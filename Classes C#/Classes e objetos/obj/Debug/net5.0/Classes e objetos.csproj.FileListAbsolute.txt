@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/Classes e objetos
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/Classes e objetos.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/Classes e objetos.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/Classes e objetos.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/Classes e objetos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/ref/Classes e objetos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/bin/Debug/net5.0/Classes e objetos.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/ref/Classes e objetos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Classes e objetos/obj/Debug/net5.0/Classes e objetos.genruntimeconfig.cache

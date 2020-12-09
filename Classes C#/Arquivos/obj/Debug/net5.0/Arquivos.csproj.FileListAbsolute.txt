@@ -1,0 +1,16 @@
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/Arquivos
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/Arquivos.deps.json
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/Arquivos.runtimeconfig.json
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/Arquivos.runtimeconfig.dev.json
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/Arquivos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/ref/Arquivos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/bin/Debug/net5.0/Arquivos.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.csprojAssemblyReference.cache
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.AssemblyInfoInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.AssemblyInfo.cs
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.csproj.CoreCompileInputs.cache
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/ref/Arquivos.dll
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.pdb
+/home/filipe/Área de Trabalho/learning_csharp/Arquivos/obj/Debug/net5.0/Arquivos.genruntimeconfig.cache
